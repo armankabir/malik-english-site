@@ -1,0 +1,23 @@
+.header-section {
+    position: relative;
+    background: url(../../assets/collage-photo.png) top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    height: 338px;
+  }
+  
+  .logo-div {
+    max-width: 16.145vw;
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    top: 0.1vw;
+    left: 1.71vw;
+  }
+  
+  .logo-art {
+    max-height: 100%;
+    height: auto;
+  }
+  
